@@ -46,7 +46,6 @@ This repository contains a complete implementation of  tabular ML techniques, co
 ├── 9. Model Deployment/                       # Flask + Cloud deployment
 ├── 10. Building a machine learning pipeline/  # Automated ML pipeline
 ├── 11. Blending Gradient Boosting and Deep Learning.ipynb  # Ensemble methods
-├── 12. K-nearest Neighbors and Support Vector Machines.ipynb  # Classical ML
 └── tabular_datasets/                          # Data storage
 ```
 
